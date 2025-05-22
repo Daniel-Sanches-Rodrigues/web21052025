@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+    
+}
+#relogio{
+    font-family: "Orbitron";
+    font-size: larger;
+    text-align: center;
+
+}
+
+#cronometo{
+    font-family: "Orbitron";
+    font-size: xx-large;
+    text-align: center;
+    color: red;
+}
+#btIniciar, #btPausar, #btZerar{
+    font-family: "Orbitron";
+    text-align: center;
+}
